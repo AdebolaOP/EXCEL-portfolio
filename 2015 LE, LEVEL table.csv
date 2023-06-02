@@ -1,0 +1,184 @@
+﻿year,Country,Life expectancy ,status,Total expenditure,Adult Mortality,infant deaths,LEVEL OF LE
+2015,Slovenia,88,Developed,0,74,0,high
+2015,Denmark,86,Developed,0,71,0,high
+2015,Cyprus,85,Developed,0,52,0,high
+2015,Chile,85,Developing,0,82,2,high
+2015,Japan,83.7,Developed,0,55,2,high
+2015,Switzerland,83.4,Developed,0,49,0,high
+2015,Singapore,83.1,Developed,0,55,0,high
+2015,Australia,82.8,Developed,0,59,1,high
+2015,Spain,82.8,Developed,0,56,1,high
+2015,Iceland,82.7,Developed,0,49,0,high
+2015,Italy,82.7,Developed,0,56,1,high
+2015,Israel,82.5,Developing,0,58,0,high
+2015,France,82.4,Developing,0,78,2,high
+2015,Sweden,82.4,Developed,0,53,0,high
+2015,Republic of Korea,82.3,Developing,0,64,1,high
+2015,Canada,82.2,Developing,0,64,2,high
+2015,Luxembourg,82,Developed,0,63,0,high
+2015,Netherlands,81.9,Developed,0,57,1,high
+2015,Norway,81.8,Developed,0,59,0,high
+2015,Malta,81.7,Developed,0,54,0,high
+2015,New Zealand,81.6,Developed,0,66,0,high
+2015,Austria,81.5,Developed,0,65,0,high
+2015,Ireland,81.4,Developed,0,64,0,high
+2015,United Kingdom of Great Britain and Northern Ireland,81.2,Developed,0,69,3,high
+2015,Portugal,81.1,Developed,0,76,0,high
+2015,Belgium,81.1,Developed,0,74,0,high
+2015,Finland,81.1,Developing,0,76,0,high
+2015,Germany,81,Developed,0,68,2,high
+2015,Greece,81,Developing,0,72,0,high
+2015,Costa Rica,79.6,Developing,0,95,1,high
+2015,United States of America,79.3,Developed,0,13,23,high
+2015,Cuba,79.1,Developing,0,92,1,high
+2015,Egypt,79,Developing,0,159,51,high
+2015,Czechia,78.8,Developed,0,86,0,high
+2015,Maldives,78.5,Developing,0,61,0,high
+2015,Qatar,78.2,Developing,0,68,0,high
+2015,Croatia,78,Developed,0,95,0,high
+2015,Albania,77.8,Developing,6,74,0,high
+2015,Panama,77.8,Developing,0,118,1,high
+2015,Brunei Darussalam,77.7,Developing,0,78,0,high
+2015,Estonia,77.6,Developing,0,119,0,high
+2015,Poland,77.5,Developed,0,117,2,high
+2015,Bosnia and Herzegovina,77.4,Developing,0,88,0,high
+2015,United Arab Emirates,77.1,Developing,0,75,1,high
+2015,Uruguay,77,Developing,0,116,0,high
+2015,Bolivia (Plurinational State of),77,Developing,0,186,8,high
+2015,Bahrain,76.9,Developing,0,69,0,high
+2015,Slovakia,76.7,Developed,0,19,0,high
+2015,Mexico,76.7,Developing,0,122,30,high
+2015,Oman,76.6,Developing,0,99,1,high
+2015,Antigua and Barbuda,76.4,Developing,0,13,0,high
+2015,Argentina,76.3,Developing,0,116,8,high
+2015,Ecuador,76.2,Developing,0,118,6,high
+2015,Jamaica,76.2,Developing,0,125,1,high
+2015,Montenegro,76.1,Developing,0,16,0,high
+2015,Bahamas,76.1,Developing,0,147,0,high
+2015,China,76.1,Developing,0,85,157,high
+2015,Democratic People's Republic of Korea,76,Developing,0,139,6,high
+2015,Viet Nam,76,Developing,0,127,28,high
+2015,Turkey,75.8,Developing,0,16,15,high
+2015,Hungary,75.8,Developed,0,134,0,high
+2015,The former Yugoslav republic of Macedonia,75.7,Developing,0,12,0,high
+2015,Algeria,75.6,Developing,0,19,21,high
+2015,Serbia,75.6,Developing,0,121,1,high
+2015,Peru,75.5,Developing,0,123,8,high
+2015,Iran (Islamic Republic of),75.5,Developing,0,83,18,high
+2015,Barbados,75.5,Developing,0,98,0,high
+2015,Tunisia,75.3,Developing,0,1,3,high
+2015,Saint Lucia,75.2,Developing,0,138,0,high
+2015,Romania,75,Developed,0,133,2,high
+2015,Russian Federation,75,Developing,0,222,13,high
+2015,Malaysia,75,Developing,0,123,4,high
+2015,Brazil,75,Developing,0,142,42,high
+2015,Lebanon,74.9,Developing,0,98,1,high
+2015,Thailand,74.9,Developing,0,148,8,high
+2015,Sri Lanka,74.9,Developing,0,138,3,high
+2015,Nicaragua,74.8,Developing,0,145,2,high
+2015,Colombia,74.8,Developing,0,143,10,high
+2015,Armenia,74.8,Developing,0,118,1,high
+2015,Kuwait,74.7,Developing,0,81,0,high
+2015,Latvia,74.6,Developed,0,153,0,high
+2015,Mauritius,74.6,Developing,0,146,0,high
+2015,Honduras,74.6,Developing,0,147,3,high
+2015,Bulgaria,74.5,Developed,0,137,0,high
+2015,Saudi Arabia,74.5,Developing,0,88,7,high
+2015,Georgia,74.4,Developing,0,129,1,high
+2015,Morocco,74.3,Developing,0,95,17,high
+2015,Jordan,74.1,Developing,0,112,4,high
+2015,Venezuela (Bolivarian Republic of),74.1,Developing,0,157,9,high
+2015,Paraguay,74,Developing,0,146,2,high
+2015,Samoa,74,Developing,0,125,0,high
+2015,Dominican Republic,73.9,Developing,0,152,6,high
+2015,Grenada,73.6,Developing,0,142,0,high
+2015,Lithuania,73.6,Developed,0,165,0,high
+2015,El Salvador,73.5,Developing,0,178,2,high
+2015,Tonga,73.5,Developing,0,133,0,high
+2015,Cabo Verde,73.3,Developing,0,114,0,high
+2015,Seychelles,73.2,Developing,0,168,0,high
+2015,Saint Vincent and the Grenadines,73.2,Developing,0,156,0,high
+2015,Libya,72.7,Developing,0,138,1,high
+2015,Azerbaijan,72.7,Developing,0,118,5,high
+2015,Belarus,72.3,Developing,0,196,0,high
+2015,Republic of Moldova,72.1,Developing,0,157,1,high
+2015,Kazakhstan,72,Developing,0,198,4,high
+2015,Vanuatu,72,Developing,0,13,0,high
+2015,Guatemala,71.9,Developing,0,186,10,high
+2015,Bangladesh,71.8,Developing,0,129,92,high
+2015,Suriname,71.6,Developing,0,176,0,high
+2015,Ukraine,71.3,Developing,0,195,4,high
+2015,Trinidad and Tobago,71.2,Developing,0,17,0,high
+2015,Kyrgyzstan,71.1,Developing,0,166,3,high
+2015,Belize,71,Developing,0,175,0,high
+2015,Fiji,69.9,Developing,0,188,0,low
+2015,Bhutan,69.8,Developing,0,211,0,low
+2015,Tajikistan,69.7,Developing,0,161,10,low
+2015,Uzbekistan,69.4,Developing,0,184,15,low
+2015,Micronesia (Federated States of),69.4,Developing,0,166,0,low
+2015,Nepal,69.2,Developing,0,165,17,low
+2015,Solomon Islands,69.2,Developing,0,177,0,low
+2015,Indonesia,69.1,Developing,0,176,114,low
+2015,Iraq,68.9,Developing,0,182,32,low
+2015,Mongolia,68.8,Developing,0,222,1,low
+2015,Cambodia,68.7,Developing,0,174,10,low
+2015,Philippines,68.5,Developing,0,211,52,low
+2015,India,68.3,Developing,0,181,910,low
+2015,Timor-Leste,68.3,Developing,0,152,2,low
+2015,Sao Tome and Principe,67.5,Developing,0,19,0,low
+2015,Zimbabwe,67,Developing,0,336,22,low
+2015,Senegal,66.7,Developing,0,188,19,low
+2015,Myanmar,66.6,Developing,0,199,39,low
+2015,Pakistan,66.4,Developing,0,161,352,low
+2015,Kiribati,66.3,Developing,0,198,0,low
+2015,Turkmenistan,66.3,Developing,0,215,6,low
+2015,Guyana,66.2,Developing,0,215,0,low
+2015,Rwanda,66.1,Developing,0,227,11,low
+2015,Gabon,66,Developing,0,229,2,low
+2015,Namibia,65.8,Developing,0,248,2,low
+2015,Lao People's Democratic Republic,65.7,Developing,0,194,8,low
+2015,Botswana,65.7,Developing,0,256,2,low
+2015,Yemen,65.7,Developing,0,224,37,low
+2015,Madagascar,65.5,Developing,0,22,28,low
+2015,Afghanistan,65,Developing,8.16,263,62,low
+2015,Ethiopia,64.8,Developing,0,225,136,low
+2015,Congo,64.7,Developing,0,267,7,low
+2015,Eritrea,64.7,Developing,0,255,5,low
+2015,Syrian Arab Republic,64.5,Developing,0,293,6,low
+2015,Sudan,64.1,Developing,0,225,58,low
+2015,Haiti,63.5,Developing,0,24,14,low
+2015,Djibouti,63.5,Developing,0,241,1,low
+2015,Comoros,63.5,Developing,0,227,1,low
+2015,Kenya,63.4,Developing,0,249,54,low
+2015,Mauritania,63.1,Developing,0,25,8,low
+2015,Papua New Guinea,62.9,Developing,0,275,10,low
+2015,South Africa,62.9,Developing,0,328,42,low
+2015,Ghana,62.4,Developing,0,249,37,low
+2015,Uganda,62.3,Developing,0,291,66,low
+2015,United Republic of Tanzania,61.8,Developing,0,279,85,low
+2015,Zambia,61.8,Developing,0,33,27,low
+2015,Niger,61.8,Developing,0,22,49,low
+2015,Liberia,61.4,Developing,0,259,8,low
+2015,Gambia,61.1,Developing,0,262,3,low
+2015,Benin,60,Developing,0,249,25,low
+2015,Burkina Faso,59.9,Developing,0,26,38,low
+2015,Togo,59.9,Developing,0,287,13,low
+2015,Democratic Republic of the Congo,59.8,Developing,0,258,236,low
+2015,Burundi,59.6,Developing,0,288,21,low
+2015,Guinea,59,Developing,0,284,26,low
+2015,Guinea-Bissau,58.9,Developing,0,275,4,low
+2015,Swaziland,58.9,Developing,0,373,2,low
+2015,Malawi,58.3,Developing,0,365,26,low
+2015,Mali,58.2,Developing,0,266,52,low
+2015,Equatorial Guinea,58.2,Developing,0,32,3,low
+2015,Mozambique,57.6,Developing,0,355,60,low
+2015,Cameroon,57.3,Developing,0,357,45,low
+2015,South Sudan,57.3,Developing,0,332,26,low
+2015,Somalia,55,Developing,0,312,50,low
+2015,Nigeria,54.5,Developing,0,344,483,low
+2015,Lesotho,53.7,Developing,0,484,4,low
+2015,CÃ´te d'Ivoire,53.3,Developing,0,397,57,low
+2015,Chad,53.1,Developing,0,356,46,low
+2015,Central African Republic,52.5,Developing,0,397,15,low
+2015,Angola,52.4,Developing,0,335,66,low
+2015,Sierra Leone,51,Developing,0,413,22,low
